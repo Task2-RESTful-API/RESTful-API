@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="47120770-026e-4ff9-b9ad-435a4fbac06b" name="RESTful API" url="jdbc:sqlserver://localhost:1433;databaseName=RESTful_API" driverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+    </data-sources>
+  </component>
+</project>
